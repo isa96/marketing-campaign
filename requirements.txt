@@ -1,0 +1,32 @@
+# ---- EDA + INSIGHT ----
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+
+# ---- DATA PREP + CLASSIFICATION ----
+
+scikit-learn
+miceforest
+Jinja2
+statsmodels
+imblearn
+
+xgboost
+shap
+pydotplus
+graphviz
+
+# In Anaconda also install :
+# python-graphviz
+
+
+# ---- DATA PREP + CLUSTERING ----
+
+scikit-learn-extra
+squarify
+yellowbrick
+
+
